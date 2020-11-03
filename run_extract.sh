@@ -21,5 +21,5 @@ source activate facenet
 # cd $DIR
 echo `pwd`
 
-python code/inference.py --snapshot models/hopenet_alpha1.pkl --batch_size=128 --gpu_number=1 --path_video_csv data/video_paths_dummy.csv 
-# python npy2hdf5.py  --out_path '/home/pardogl/scratch/data/movies/'
+# python code/inference.py --snapshot models/hopenet_alpha1.pkl --batch_size=256 --gpu_number=1 --path_video_csv data/video_paths_dummy.csv 
+python code/inference.py --snapshot models/hopenet_alpha1.pkl --batch_size=256 --gpu_number=0 --path_video_csv data/video_paths.csv 

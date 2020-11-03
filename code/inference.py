@@ -3,19 +3,13 @@ from __future__ import print_function
 import sys, os, argparse
 
 import numpy as np
-import cv2
-import matplotlib.pyplot as plt
 
-
-from PIL import Image
 from facenet_pytorch import MTCNN, InceptionResnetV1
 
 import hopenet
 
-from skimage import io
 import time
 from dataloader import FrameLoader
-import argparse
 import torchvision
 import torch as th
 import torch.nn.functional as F
