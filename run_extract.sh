@@ -1,7 +1,7 @@
 #!/bin/bash
-#SBATCH --job-name FaceV
-#SBATCH --array=1-25
-#SBATCH --time=4:00:00
+#SBATCH --job-name PoseFace
+#SBATCH --array=1-50
+#SBATCH --time=1:00:00
 #SBATCH --gres=gpu:1
 #SBATCH -o logs/%A_%a.out
 #SBATCH -e logs/%A_%a.err
