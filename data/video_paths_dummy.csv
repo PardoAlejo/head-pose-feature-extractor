@@ -1,0 +1,7 @@
+video_path,feature_path
+/home/pardogl/datasets/movies/youtube/3ce2e-d1ZEc/3ce2e-d1ZEc.mp4,/home/pardogl/datasets/movies/youtube/3ce2e-d1ZEc/3ce2e-d1ZEc_face_pose_feature.npy
+/home/pardogl/datasets/movies/youtube/RPW4sx3UYjU/RPW4sx3UYjU.mp4,/home/pardogl/datasets/movies/youtube/RPW4sx3UYjU/RPW4sx3UYjU_face_pose_feature.npy
+/home/pardogl/datasets/movies/youtube/HG8iPGFvfxU/HG8iPGFvfxU.mp4,/home/pardogl/datasets/movies/youtube/HG8iPGFvfxU/HG8iPGFvfxU_face_pose_feature.npy
+/home/pardogl/datasets/movies/youtube/c4X58OjlVPo/c4X58OjlVPo.mp4,/home/pardogl/datasets/movies/youtube/c4X58OjlVPo/c4X58OjlVPo_face_pose_feature.npy
+/home/pardogl/datasets/movies/youtube/ASJef4vkcNk/ASJef4vkcNk.mp4,/home/pardogl/datasets/movies/youtube/ASJef4vkcNk/ASJef4vkcNk_face_pose_feature.npy
+/home/pardogl/datasets/movies/youtube/22VmzX35pvM/22VmzX35pvM.mp4,/home/pardogl/datasets/movies/youtube/22VmzX35pvM/22VmzX35pvM_face_pose_feature.npy
